@@ -1,1 +1,1 @@
-# DiceGame-Project
+# Dice Game
